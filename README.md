@@ -34,9 +34,9 @@
     <h3>Now Im learning:</h3>
     <ul>
         <li>Authorization & Authentication</li>
-        <li>Material UI</li>
         <li>Redux</li>
         <li>Node JS</li>
+        <li>MySQL</li>
     <ul>
 </div>
 
