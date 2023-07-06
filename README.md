@@ -40,5 +40,5 @@
     <ul>
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitriyKanischev&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitriyKanischev&theme=aura)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DmitriyKanischev&theme=aura&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitriyKanischev&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitriyKanischev&theme=dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitriyKanischev&theme=dark)
