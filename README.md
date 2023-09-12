@@ -7,38 +7,39 @@
         <img src='https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin' alt='LinkedIn'>
     </a>
     <a href='https://t.me/ddknschv'>
-        <img src='https://img.shields.io/badge/-Telegram-lightgrey?logo=telegram' alt='Telegram'>
+        <img src='https://img.shields.io/badge/-Telegram-grey?logo=telegram' alt='Telegram'>
     </a>
 </div>
 <div>
     <h3>Stack:</h3> 
-    <img src='https://img.shields.io/badge/-HTML-lightgrey?logo=html5' alt='HTML'>
-    <img src='https://img.shields.io/badge/-CSS3-lightgrey?logo=css3' alt='CSS'>
-    <img src='https://img.shields.io/badge/-JavaScript-lightgrey?logo=javascript' alt='JavaScript'>
-    <img src='https://img.shields.io/badge/-React-lightgrey?logo=react' alt='React'>
-    <img src='https://img.shields.io/badge/-GIT-lightgrey?logo=git' alt='GIT'>
-    <img src='https://img.shields.io/badge/-GraphQL-lightgrey?logo=graphql' alt='GraphQL'>
-    <img src='https://img.shields.io/badge/-ApolloClient-lightgrey?logo=apollographql' alt='ApolloClient'>
+    <img src='https://img.shields.io/badge/-HTML-grey?logo=html5' alt='HTML'>
+    <img src='https://img.shields.io/badge/-CSS3-grey?logo=css3&logoColor=blue' alt='CSS'>
+    <img src='https://img.shields.io/badge/-SCSS-grey?logo=sass' alt='SCSS'>
+    <img src='https://img.shields.io/badge/-JavaScript-grey?logo=javascript' alt='JavaScript'>
+    <img src='https://img.shields.io/badge/-React-grey?logo=react' alt='React'>
+    <img src='https://img.shields.io/badge/-Redux_Toolkit-grey?logo=redux&logoColor=764ABC' alt='Redux'>
+    <img src='https://img.shields.io/badge/-GIT-grey?logo=git' alt='GIT'>
+    <img src='https://img.shields.io/badge/-GraphQL-grey?logo=graphql' alt='GraphQL'>
+    
 </div>
 <div>
     <h3>Also worked with:</h3>
-    <img src='https://img.shields.io/badge/-Bootstrap-lightgrey?logo=bootstrap' alt='Bootstrap'>
-    <img src='https://img.shields.io/badge/-TailwindCSS-lightgrey?logo=tailwindcss' alt='Tailwind CSS'>
+    <img src='https://img.shields.io/badge/-Bootstrap-grey?logo=bootstrap' alt='Bootstrap'>
+    <img src='https://img.shields.io/badge/-TailwindCSS-grey?logo=tailwindcss' alt='Tailwind CSS'>
+    <img src='https://img.shields.io/badge/-MongoDB-grey?logo=mongodb' alt='MongoDB'>
 </div>
 <div>
     <h3>You can track my progress in React on my coursework:
-        <a href='https://github.com/DmitriyKanischev/Fast-app-beta'>
-            <img src='https://img.shields.io/badge/-FastApp-lightgrey?logo=react' alt='Fast App'>
+        <a href='https://github.com/DmitriyKanischev/react-pizza'>
+            <img src='https://img.shields.io/badge/-React_Pizza-grey?logo=react' alt='Fast App'>
         </a>
     </h3>
     <h3>Now Im learning:</h3>
     <ul>
-        <li>Authorization & Authentication</li>
-        <li>Redux</li>
         <li>Node JS</li>
-        <li>MySQL</li>
+        <li>PostgreSQL</li>
     <ul>
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitriyKanischev&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitriyKanischev&theme=dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitriyKanischev&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitriyKanischev&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitriyKanischev&theme=aura)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitriyKanischev&theme=aura)
