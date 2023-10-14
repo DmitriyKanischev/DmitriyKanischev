@@ -37,7 +37,7 @@
     <h3>Now Im learning:</h3>
     <ul>
         <li>Node JS</li>
-        <li>PostgreSQL</li>
+        <li>Next JS</li>
     <ul>
 </div>
 
