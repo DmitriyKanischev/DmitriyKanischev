@@ -3,9 +3,6 @@
     <h3>Frontend Developer</h3>
 </header>
 <div align="center">
-    <a href='https://www.linkedin.com/in/ddknschv/'>
-        <img src='https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin' alt='LinkedIn'>
-    </a>
     <a href='https://t.me/ddknschv'>
         <img src='https://img.shields.io/badge/-Telegram-grey?logo=telegram' alt='Telegram'>
     </a>
@@ -29,11 +26,6 @@
     <img src='https://img.shields.io/badge/-MongoDB-grey?logo=mongodb' alt='MongoDB'>
 </div>
 <div>
-    <h3>You can track my progress in React on my coursework:
-        <a href='https://github.com/DmitriyKanischev/react-pizza'>
-            <img src='https://img.shields.io/badge/-React_Pizza-grey?logo=react' alt='Fast App'>
-        </a>
-    </h3>
     <h3>Now Im learning:</h3>
     <ul>
         <li>Node JS</li>
