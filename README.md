@@ -13,25 +13,23 @@
     <img src='https://img.shields.io/badge/-CSS3-grey?logo=css3&logoColor=blue' alt='CSS'>
     <img src='https://img.shields.io/badge/-SCSS-grey?logo=sass' alt='SCSS'>
     <img src='https://img.shields.io/badge/-JavaScript-grey?logo=javascript' alt='JavaScript'>
+    <img src='https://img.shields.io/badge/-TypeScript-grey?logo=TypeScript' alt='TypeScript'>
     <img src='https://img.shields.io/badge/-React-grey?logo=react' alt='React'>
+    <img src='https://img.shields.io/badge/-NextJS-grey?logo=nextdotjs' alt='NextJS'>
     <img src='https://img.shields.io/badge/-Redux_Toolkit-grey?logo=redux&logoColor=764ABC' alt='Redux'>
     <img src='https://img.shields.io/badge/-GIT-grey?logo=git' alt='GIT'>
-    <img src='https://img.shields.io/badge/-GraphQL-grey?logo=graphql' alt='GraphQL'>
+    
     
 </div>
 <div>
     <h3>Also worked with:</h3>
+    <img src='https://img.shields.io/badge/-MongoDB-grey?logo=mongodb' alt='MongoDB'>
+    <img src='https://img.shields.io/badge/-NodeJS-grey?logo=nodedotjs' alt='NodeJS'>
     <img src='https://img.shields.io/badge/-Bootstrap-grey?logo=bootstrap' alt='Bootstrap'>
     <img src='https://img.shields.io/badge/-TailwindCSS-grey?logo=tailwindcss' alt='Tailwind CSS'>
-    <img src='https://img.shields.io/badge/-MongoDB-grey?logo=mongodb' alt='MongoDB'>
+    <img src='https://img.shields.io/badge/-GraphQL-grey?logo=graphql' alt='GraphQL'>
 </div>
-<div>
-    <h3>Now Im learning:</h3>
-    <ul>
-        <li>Node JS</li>
-        <li>Next JS</li>
-    <ul>
-</div>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitriyKanischev&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitriyKanischev&theme=aura)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitriyKanischev&theme=aura)
